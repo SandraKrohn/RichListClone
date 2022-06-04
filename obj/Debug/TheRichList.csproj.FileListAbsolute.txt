@@ -1,0 +1,11 @@
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\bin\Debug\TheRichList.exe.config
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\bin\Debug\TheRichList.exe
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\bin\Debug\TheRichList.pdb
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.csproj.AssemblyReference.cache
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.frmMain.resources
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.Properties.Resources.resources
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.csproj.GenerateResource.cache
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.csproj.CoreCompileInputs.cache
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.exe
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.pdb
+C:\Users\liebl\Desktop\Programming\VS_CSh\PracticeProjects\TheRichList\obj\Debug\TheRichList.frmHowToPlay.resources
